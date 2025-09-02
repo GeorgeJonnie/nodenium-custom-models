@@ -106,7 +106,42 @@
                 }
             },
             {
-                "threshold": 104,             
+                "threshold": 201,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:deked_out/item/card_minus_1"
+                }
+            },
+            {
+                "threshold": 202,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:deked_out/item/card_minus_2"
+                }
+            },
+            {
+                "threshold": 203,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:deked_out/item/card_minus_3"
+                }
+            },
+            {
+                "threshold": 204,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:deked_out/item/card_medbay"
+                }
+            },
+            {
+                "threshold": 205,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:deked_out/item/scraps"
+                }
+            },
+            {
+                "threshold": 206,
                 "model": {
                     "type": "composite",
                     "models": [
@@ -120,32 +155,9 @@
                         },
                         {
                             "type": "model",
-                            "model": "nodenium:deked_out/epic_magnet"
+                            "model": "nodenium:deked_out/petrified_skull"
                         }
                     ]
-                }
-            },
-            {
-                "threshold": 105,             
-                "model": {
-                    "type": "composite",
-                    "models": [
-                        {
-                            "type": "model",
-                            "model": "nodenium:deked_out/overlay/rare"
-                        },
-                        {
-                            "type": "model",
-                            "model": "nodenium:deked_out/red_blue_magnet"
-                        }
-                    ]
-                }
-            },
-                        {
-                "threshold": 106,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/magnet"
                 }
             }
         ]

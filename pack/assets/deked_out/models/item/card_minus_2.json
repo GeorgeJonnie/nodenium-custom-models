@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "nodenium:item/deked_out/item/card_minus_2"
+  }
+}

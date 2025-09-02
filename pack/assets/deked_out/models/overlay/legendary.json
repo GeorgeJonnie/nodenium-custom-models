@@ -10,6 +10,7 @@
 		{
 			"from": [0, 0, 8],
 			"to": [16, 16, 8],
+			"light_emission": 15,
 			"rotation": {"angle": 0, "axis": "y", "origin": [7, 0, 7]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#0"},
@@ -45,7 +46,8 @@
 			"scale": [0, 0, 0]
 		},
 		"fixed": {
-			"scale": [0, 0, 0]
+			"translation": [0, 0, -0.05],
+			"scale": [1.25, 1.25, 1.25]
 		}
 	}
 }
