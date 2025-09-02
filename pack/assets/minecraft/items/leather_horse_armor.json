@@ -34,13 +34,6 @@
                         }
                     ]
                 }
-            },
-            {
-                "threshold": 2,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
-                }
             }
         ]
     }

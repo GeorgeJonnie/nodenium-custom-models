@@ -37,13 +37,6 @@
                     "type": "model",
                     "model": "nodenium:magnifying_glass"
                 }
-            },
-            {
-                "threshold": 3,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
-                }
             }
         ]
     }

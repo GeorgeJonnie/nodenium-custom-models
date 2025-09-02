@@ -104,61 +104,6 @@
                     "type": "model",
                     "model": "nodenium:paintings/tree"
                 }
-            },
-            {
-                "threshold": 201,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/item/card_minus_1"
-                }
-            },
-            {
-                "threshold": 202,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/item/card_minus_2"
-                }
-            },
-            {
-                "threshold": 203,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/item/card_minus_3"
-                }
-            },
-            {
-                "threshold": 204,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/item/card_medbay"
-                }
-            },
-            {
-                "threshold": 205,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:deked_out/item/scraps"
-                }
-            },
-            {
-                "threshold": 206,
-                "model": {
-                    "type": "composite",
-                    "models": [
-                        {
-                            "type": "model",
-                            "model": "nodenium:deked_out/overlay/legendary"
-                        },
-                        {
-                            "type": "model",
-                            "model": "nodenium:deked_out/overlay/glow"
-                        },
-                        {
-                            "type": "model",
-                            "model": "nodenium:deked_out/petrified_skull"
-                        }
-                    ]
-                }
             }
         ]
     }

@@ -34,13 +34,6 @@
                     "type": "model",
                     "model": "nodenium:blaze"
                 }
-            },
-            {
-                "threshold": 5,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
-                }
             }
         ]
     }

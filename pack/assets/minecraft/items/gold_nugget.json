@@ -32,7 +32,14 @@
                 "threshold": 4,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:update_pack"
+                    "model": "nodenium:zombie_trophy"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:zombie_sword_trophy"
                 }
             }
         ]

@@ -13,13 +13,6 @@
                     "type": "model",
                     "model": "nodenium:ish_campaign_poster"
                 }
-            },
-            {
-                "threshold": 2,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
-                }
             }
         ]
     }

@@ -62,14 +62,7 @@
             {"threshold": 47,"model": {"type": "model","model": "nodenium:scroll_closed","tints": [{"type": "minecraft:constant","value": [1, 0.471, 0]}]}},
             {"threshold": 48,"model": {"type": "model","model": "nodenium:scroll_closed","tints": [{"type": "minecraft:constant","value": [0.176, 0.329, 0.098]}]}},
             {"threshold": 49,"model": {"type": "model","model": "nodenium:scroll_closed","tints": [{"type": "minecraft:constant","value": [0.922, 0.929, 0.306]}]}},
-            {"threshold": 50,"model": {"type": "model","model": "nodenium:scroll_closed","tints": [{"type": "minecraft:constant","value": [0.498, 0.376, 0.310]}]}},
-            {
-                "threshold": 51,
-                "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
-                }
-            }
+            {"threshold": 50,"model": {"type": "model","model": "nodenium:scroll_closed","tints": [{"type": "minecraft:constant","value": [0.498, 0.376, 0.310]}]}}
         ]
     }
 }
