@@ -65,13 +65,11 @@ jobs:
           for c in $COMMITS; do
             FILES_CHANGED=$(git diff-tree --no-commit-id --name-only -r $c)
 
-            # Only skip if the commit only changes pack.mcmeta
             if [ "$FILES_CHANGED" = "pack/pack.mcmeta" ]; then
               OLD_VERSION=$(git show $c^:pack/pack.mcmeta | jq -r '.pack.description' | grep -o '\[v[0-9.]\+\]')
               NEW_VERSION=$(git show $c:pack/pack.mcmeta | jq -r '.pack.description' | grep -o '\[v[0-9.]\+\]')
               
               if [ "$OLD_VERSION" != "" ] && [ "$OLD_VERSION" != "$NEW_VERSION" ]; then
-                # Only version changed → skip this commit
                 continue
               fi
             fi
@@ -87,6 +85,15 @@ jobs:
           echo "changelog<<EOF" >> $GITHUB_OUTPUT
           echo "$CHANGELOG" >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Create zip of pack contents
+        run: |
+          VERSION=${{ steps.get_version.outputs.version }}
+          ZIP_NAME="Nodenium_Resources-${VERSION}.zip"
+          cd pack
+          zip -r "../$ZIP_NAME" .
+          cd ..
+          cp "$ZIP_NAME" "Nodenium_Resources.zip"
 
       - name: Create GitHub Release
         uses: softprops/action-gh-release@v1
