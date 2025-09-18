@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"2": "nodenium:item/deked_out/fancy_key",
-		"particle": "nodenium:item/deked_out/regular_key"
+		"2": "deked_out:item/artifact/fancy_key",
+		"particle": "deked_out:item/artifact/regular_key"
 	},
 	"elements": [
 		{

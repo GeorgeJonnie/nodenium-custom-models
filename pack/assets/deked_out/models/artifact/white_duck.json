@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "nodenium:item/deked_out/white_duck",
-		"particle": "nodenium:item/deked_out/white_duck"
+		"1": "deked_out:item/artifact/white_duck",
+		"particle": "deked_out:item/artifact/white_duck"
 	},
 	"elements": [
 		{

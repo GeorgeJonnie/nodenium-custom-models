@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "nodenium:item/deked_out/small_duck",
-		"particle": "nodenium:item/deked_out/small_duck"
+		"0": "deked_out:item/artifact/small_duck",
+		"particle": "deked_out:item/artifact/small_duck"
 	},
 	"elements": [
 		{

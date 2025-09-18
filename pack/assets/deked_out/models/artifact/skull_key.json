@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/deked_out/skull_key",
-		"particle": "nodenium:item/deked_out/skull_key"
+		"1": "deked_out:item/artifact/skull_key",
+		"particle": "deked_out:item/artifact/skull_key"
 	},
 	"elements": [
 		{

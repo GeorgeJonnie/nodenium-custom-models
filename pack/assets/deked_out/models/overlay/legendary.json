@@ -3,8 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "nodenium:item/deked_out/overlay/legendary",
-		"particle": "nodenium:item/deked_out/overlay/legendary"
+		"0": "deked_out:item/overlay/legendary",
+		"particle": "deked_out:item/overlay/legendary"
 	},
 	"elements": [
 		{

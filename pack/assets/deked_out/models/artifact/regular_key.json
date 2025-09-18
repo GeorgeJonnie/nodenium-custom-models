@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "nodenium:item/deked_out/regular_key",
-		"particle": "nodenium:item/deked_out/regular_key"
+		"0": "deked_out:item/artifact/regular_key",
+		"particle": "deked_out:item/artifact/regular_key"
 	},
 	"elements": [
 		{

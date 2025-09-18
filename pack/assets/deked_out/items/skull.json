@@ -5,7 +5,11 @@
     "models": [
         {
             "type": "model",
-            "model": "deked_out:overlay/rare"
+            "model": "deked_out:overlay/legendary"
+        },
+        {
+            "type": "model",
+            "model": "deked_out:overlay/glow"
         },
         {
             "type": "model",

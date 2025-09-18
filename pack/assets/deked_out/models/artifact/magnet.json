@@ -2,8 +2,8 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "nodenium:item/deked_out/magnet",
-		"particle": "nodenium:item/deked_out/magnet"
+		"0": "deked_out:item/artifact/magnet",
+		"particle": "deked_out:item/artifact/magnet"
 	},
 	"elements": [
 		{
