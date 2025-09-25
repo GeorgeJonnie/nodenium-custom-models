@@ -80,8 +80,25 @@
             {
                 "threshold": 11,
                 "model": {
-                    "type": "model",
-                    "model": "nodenium:update_pack"
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "nodenium:badonkadonk"
+                        },
+                        {
+                            "type": "model",
+                            "model": "nodenium:badonkadonk_tail_0"
+                        },
+                        {
+                            "type": "model",
+                            "model": "nodenium:badonkadonk_tail_1"
+                        },
+                        {
+                            "type": "model",
+                            "model": "nodenium:badonkadonk_tail_2"
+                        }
+                    ]
                 }
             },
             {
