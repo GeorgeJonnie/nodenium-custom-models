@@ -121,25 +121,6 @@
 	},
 	"groups": [
 		{
-			"name": "body",
-			"origin": [8, 0, 8],
-			"color": 0,
-			"children": []
-		},
-		{
-			"name": "head",
-			"origin": [8, 0, 8],
-			"color": 0,
-			"children": [
-				{
-					"name": "jaw",
-					"origin": [8, 0, 8],
-					"color": 0,
-					"children": []
-				}
-			]
-		},
-		{
 			"name": "tailsection1",
 			"origin": [8, 0, 8],
 			"color": 0,
