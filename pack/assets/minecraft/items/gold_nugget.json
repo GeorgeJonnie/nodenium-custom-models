@@ -76,6 +76,13 @@
                     "type": "model",
                     "model": "nodenium:portal_trophy_1st"
                 }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:guitar_trophy"
+                }
             }
         ]
     }
