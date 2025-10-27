@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"1": "halloween:item/cowboy_hat"
+		"1": "halloween:item/cowboy_hat",
+		"particle": "halloween:item/cowboy_hat"
 	},
 	"elements": [
 		{

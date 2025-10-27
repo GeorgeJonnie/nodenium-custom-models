@@ -6,7 +6,8 @@
 		"1": "halloween:item/crow",
 		"2": "halloween:item/cauldron_soup",
 		"4": "halloween:item/cauldron_bubbles",
-		"5": "halloween:item/cauldron"
+		"5": "halloween:item/cauldron",
+		"particle": "halloween:item/cauldron"
 	},
 	"elements": [
 		{
