@@ -121,6 +121,13 @@
                     "type": "model",
                     "model": "nodenium:paintings/tree"
                 }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:paintings/joey_comp"
+                }
             }
         ]
     }
