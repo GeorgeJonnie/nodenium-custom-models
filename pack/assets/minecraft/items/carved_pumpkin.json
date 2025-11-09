@@ -219,6 +219,20 @@
                 }
             },
             {
+                "threshold": 31,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:pilot_cap_white"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:pilot_cap_blue"
+                }
+            },
+            {
                 "threshold": 100,
                 "model": {
                     "type": "model",
@@ -229,3 +243,4 @@
     }
 
 }
+
