@@ -218,18 +218,18 @@
                     "model": "nodenium:teto_hair"
                 }
             },
-                        {
+            {
                 "threshold": 31,
                 "model": {
                     "type": "model",
                     "model": "nodenium:pilot_cap_white"
                 }
             },
-                        {
+            {
                 "threshold": 32,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:pilot_cap_white"
+                    "model": "nodenium:pilot_cap_blue"
                 }
             },
             {
