@@ -20,7 +20,35 @@
                     "type": "model",
                     "model": "nodenium:coffee_poster"
                 }
-            }
+            },
+            {
+                "threshold": 101,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:album_covers/DailyLoop_AC"
+                }
+            },
+            {
+                "threshold": 102,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:album_covers/FailumeHeights_AC"
+                }
+            },
+            {
+                "threshold": 103,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:album_covers/FrierenI_AC"
+                }
+            },
+            {
+                "threshold": 104,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:album_covers/VioletI_AC"
+                }
+            }         
         ]
     }
 }
