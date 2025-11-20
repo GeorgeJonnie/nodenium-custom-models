@@ -2,7 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/DailyLoop_tex",
+		"1": "nodenium:item/album_covers/daily_loop",
 		"particle": "daily-loop"
 	},
 	"elements": [

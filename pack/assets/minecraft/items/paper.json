@@ -25,28 +25,28 @@
                 "threshold": 101,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:album_covers/DailyLoop_AC"
+                    "model": "nodenium:album_covers/daily_loop"
                 }
             },
             {
                 "threshold": 102,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:album_covers/FailumeHeights_AC"
+                    "model": "nodenium:album_covers/failume_heights"
                 }
             },
             {
                 "threshold": 103,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:album_covers/FrierenI_AC"
+                    "model": "nodenium:album_covers/frieren_i"
                 }
             },
             {
                 "threshold": 104,
                 "model": {
                     "type": "model",
-                    "model": "nodenium:album_covers/VioletI_AC"
+                    "model": "nodenium:album_covers/violet_i"
                 }
             }         
         ]

@@ -2,8 +2,7 @@
 	"format_version": "1.21.6",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"1": "nodenium:item/album_covers/FrierenI_tex",
-		"particle": "Frieren_LP_Cover_RGB72_4000px1"
+		"1": "nodenium:item/album_covers/failume_heights"
 	},
 	"elements": [
 		{
