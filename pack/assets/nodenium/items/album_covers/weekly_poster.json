@@ -1,4 +1,5 @@
 {
+    "unlisted": true,
     "model": {
         "type": "model",
         "model": "nodenium:album_covers/weekly_poster"
