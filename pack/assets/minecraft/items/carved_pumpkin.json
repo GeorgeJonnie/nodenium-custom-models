@@ -233,6 +233,20 @@
                 }
             },
             {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:beanie1"
+                }
+            },
+            {
+                "threshold": 32,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:beanie2"
+                }
+            },
+            {
                 "threshold": 100,
                 "model": {
                     "type": "model",
