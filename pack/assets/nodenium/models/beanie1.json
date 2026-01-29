@@ -2,8 +2,8 @@
 	"credit": "Made by Arctic_foxxyt",
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "misc/beenie",
-		"particle": "misc/beenie"
+		"0": "nodenium:item/beanie",
+		"particle": "nodenium:item/beanie"
 	},
 	"elements": [
 		{
