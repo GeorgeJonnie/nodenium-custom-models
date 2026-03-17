@@ -233,28 +233,28 @@
                 }
             },
             {
-                "threshold": 32,
+                "threshold": 33,
                 "model": {
                     "type": "model",
                     "model": "nodenium:beanie1"
                 }
             },
             {
-                "threshold": 32,
+                "threshold": 34,
                 "model": {
                     "type": "model",
                     "model": "nodenium:beanie2"
                 }
             },
             {
-                "threshold": 33,
+                "threshold": 35,
                 "model": {
                     "type": "model",
                     "model": "nodenium:flower_crown"
                 }
             },
             {
-                "threshold": 34,
+                "threshold": 36,
                 "model": {
                     "type": "model",
                     "model": "nodenium:shamrock_hat"
