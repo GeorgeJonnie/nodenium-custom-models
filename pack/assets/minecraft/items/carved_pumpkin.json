@@ -247,6 +247,20 @@
                 }
             },
             {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:flower_crown"
+                }
+            },
+            {
+                "threshold": 34,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:shamrock_hat"
+                }
+            },
+            {
                 "threshold": 100,
                 "model": {
                     "type": "model",
