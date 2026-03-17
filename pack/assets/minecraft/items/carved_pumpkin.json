@@ -247,6 +247,13 @@
                 }
             },
             {
+                "threshold": 33,
+                "model": {
+                    "type": "model",
+                    "model": "nodenium:flower_crown"
+                }
+            },
+            {
                 "threshold": 100,
                 "model": {
                     "type": "model",
