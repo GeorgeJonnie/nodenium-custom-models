@@ -3,7 +3,8 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"3": "deked_out:item/artifact/ladybug"
+		"3": "deked_out:item/artifact/ladybug",
+		"particle": "deked_out:item/artifact/ladybug"
 	},
 	"elements": [
 		{

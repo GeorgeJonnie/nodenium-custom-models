@@ -1,0 +1,30 @@
+{
+    "model": {
+        "type": "minecraft:select",
+        "property": "minecraft:display_context",
+        "cases": [
+            {
+                "when": [
+                    "head"
+                ],
+                "model": {
+                    "type": "composite",
+                    "models": [
+                        {
+                            "type": "model",
+                            "model": "nodenium:creeper"
+                        },
+                        {
+                            "type": "model",
+                            "model": "nodenium:shadow"
+                        }
+                    ]
+                }
+            }
+        ],
+        "fallback": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/creeper_spawn_egg"
+        }
+    }
+}
