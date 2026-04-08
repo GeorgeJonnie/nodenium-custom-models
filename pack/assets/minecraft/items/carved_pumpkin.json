@@ -260,6 +260,7 @@
                     "model": "nodenium:shamrock_hat"
                 }
             },
+
             {
                 "threshold": 100,
                 "model": {
